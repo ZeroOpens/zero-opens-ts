@@ -1,1 +1,1 @@
-# Hello ZeroOpens
+# This is an npm package
