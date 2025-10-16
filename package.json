@@ -1,7 +1,10 @@
 {
   "name": "zero_opens",
-  "version": "1.0.0",
-  "description": "Hello ZeroOpens",
+  "version": "0.0.0",
+  "description": "hello zero_opens.",
+  "author": "xYx <zeroopens@outlook.com>",
+  "license": "MIT",
+  "keywords": [ "zero_opens xYx" ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
@@ -14,9 +17,6 @@
     "prepublishOnly": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [ "zero_opens" ],
-  "author": "xYx",
-  "license": "ISC",
   "devDependencies": {
     "@types/node": "^24.7.2",
     "typescript": "^5.9.3"
