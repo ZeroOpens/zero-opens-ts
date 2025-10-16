@@ -1,0 +1,24 @@
+{
+  "name": "zero_opens",
+  "version": "1.0.0",
+  "description": "Hello ZeroOpens",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "zero_opens" ],
+  "author": "xYx",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.7.2",
+    "typescript": "^5.9.3"
+  }
+}
