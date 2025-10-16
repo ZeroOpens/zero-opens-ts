@@ -4,7 +4,10 @@
   "description": "hello zero_opens.",
   "author": "xYx <zeroopens@outlook.com>",
   "license": "MIT",
-  "repository": "https://github.com/ZeroOpens/zero-opens-ts",
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/ZeroOpens/zero-opens-ts"
+  },
   "keywords": [ "zero_opens xYx" ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
