@@ -1,3 +1,15 @@
+/**
+ * hello zero-opens
+ * 
+ * @returns string
+ * 
+ * @example
+ * ```ts
+ * import { hello } from 'zero-opens';
+ * 
+ * console.log(hello());
+ * ```
+ */
 export function hello(): string {
-  return `Hello ZeroOpens!`;
+  return `hello zero-opens!`;
 }

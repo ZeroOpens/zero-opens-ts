@@ -1,14 +1,14 @@
 {
-  "name": "zero_opens",
+  "name": "zero-opens",
   "version": "0.0.0",
-  "description": "hello zero_opens.",
+  "description": "hello zero-opens.",
   "author": "xYx <zeroopens@outlook.com>",
   "license": "MIT",
   "repository": {
     "type": "git", 
     "url": "https://github.com/ZeroOpens/zero-opens-ts"
   },
-  "keywords": [ "zero_opens xYx" ],
+  "keywords": [ "zero-opens xYx" ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
